@@ -7,3 +7,8 @@ from random import randint
 from time import sleep
 mc = minecraft.Minecraft.create()
 mcDrawing = MinecraftDrawing(mc)
+
+def main():
+    pass
+
+main()
